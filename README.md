@@ -29,7 +29,8 @@ It demonstrates how to build a clean, accessible, and logically organized webpag
 
 ## 🚀 How to View  
 1. Clone this repository  
-   ```bash
+    ```bash
+   git clone https://github.com/<your-username>/fcc-cat-photo-app.git
 2. Open index.html in your preferred browser. 
 
 ## 🏆 Milestone
